@@ -1,1 +1,0 @@
-# Dipole-Antenna-ANSYS-HFSS-
